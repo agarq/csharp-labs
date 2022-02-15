@@ -1,0 +1,15 @@
+C:\Users\jhon.velasquez\Documents\Tech_Demos\C#\TestCalcPoint\bin\Debug\net6.0\TestCalcPoint.exe
+C:\Users\jhon.velasquez\Documents\Tech_Demos\C#\TestCalcPoint\bin\Debug\net6.0\TestCalcPoint.deps.json
+C:\Users\jhon.velasquez\Documents\Tech_Demos\C#\TestCalcPoint\bin\Debug\net6.0\TestCalcPoint.runtimeconfig.json
+C:\Users\jhon.velasquez\Documents\Tech_Demos\C#\TestCalcPoint\bin\Debug\net6.0\TestCalcPoint.dll
+C:\Users\jhon.velasquez\Documents\Tech_Demos\C#\TestCalcPoint\bin\Debug\net6.0\ref\TestCalcPoint.dll
+C:\Users\jhon.velasquez\Documents\Tech_Demos\C#\TestCalcPoint\bin\Debug\net6.0\TestCalcPoint.pdb
+C:\Users\jhon.velasquez\Documents\Tech_Demos\C#\TestCalcPoint\obj\Debug\net6.0\TestCalcPoint.csproj.AssemblyReference.cache
+C:\Users\jhon.velasquez\Documents\Tech_Demos\C#\TestCalcPoint\obj\Debug\net6.0\TestCalcPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhon.velasquez\Documents\Tech_Demos\C#\TestCalcPoint\obj\Debug\net6.0\TestCalcPoint.AssemblyInfoInputs.cache
+C:\Users\jhon.velasquez\Documents\Tech_Demos\C#\TestCalcPoint\obj\Debug\net6.0\TestCalcPoint.AssemblyInfo.cs
+C:\Users\jhon.velasquez\Documents\Tech_Demos\C#\TestCalcPoint\obj\Debug\net6.0\TestCalcPoint.csproj.CoreCompileInputs.cache
+C:\Users\jhon.velasquez\Documents\Tech_Demos\C#\TestCalcPoint\obj\Debug\net6.0\TestCalcPoint.dll
+C:\Users\jhon.velasquez\Documents\Tech_Demos\C#\TestCalcPoint\obj\Debug\net6.0\ref\TestCalcPoint.dll
+C:\Users\jhon.velasquez\Documents\Tech_Demos\C#\TestCalcPoint\obj\Debug\net6.0\TestCalcPoint.pdb
+C:\Users\jhon.velasquez\Documents\Tech_Demos\C#\TestCalcPoint\obj\Debug\net6.0\TestCalcPoint.genruntimeconfig.cache
