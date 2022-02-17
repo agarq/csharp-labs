@@ -1,0 +1,15 @@
+C:\Users\jhon.velasquez\Documents\Jhon_GitHub\csharp-labs\TestParentheses\bin\Debug\net6.0\TestParentheses.exe
+C:\Users\jhon.velasquez\Documents\Jhon_GitHub\csharp-labs\TestParentheses\bin\Debug\net6.0\TestParentheses.deps.json
+C:\Users\jhon.velasquez\Documents\Jhon_GitHub\csharp-labs\TestParentheses\bin\Debug\net6.0\TestParentheses.runtimeconfig.json
+C:\Users\jhon.velasquez\Documents\Jhon_GitHub\csharp-labs\TestParentheses\bin\Debug\net6.0\TestParentheses.dll
+C:\Users\jhon.velasquez\Documents\Jhon_GitHub\csharp-labs\TestParentheses\bin\Debug\net6.0\ref\TestParentheses.dll
+C:\Users\jhon.velasquez\Documents\Jhon_GitHub\csharp-labs\TestParentheses\bin\Debug\net6.0\TestParentheses.pdb
+C:\Users\jhon.velasquez\Documents\Jhon_GitHub\csharp-labs\TestParentheses\obj\Debug\net6.0\TestParentheses.csproj.AssemblyReference.cache
+C:\Users\jhon.velasquez\Documents\Jhon_GitHub\csharp-labs\TestParentheses\obj\Debug\net6.0\TestParentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhon.velasquez\Documents\Jhon_GitHub\csharp-labs\TestParentheses\obj\Debug\net6.0\TestParentheses.AssemblyInfoInputs.cache
+C:\Users\jhon.velasquez\Documents\Jhon_GitHub\csharp-labs\TestParentheses\obj\Debug\net6.0\TestParentheses.AssemblyInfo.cs
+C:\Users\jhon.velasquez\Documents\Jhon_GitHub\csharp-labs\TestParentheses\obj\Debug\net6.0\TestParentheses.csproj.CoreCompileInputs.cache
+C:\Users\jhon.velasquez\Documents\Jhon_GitHub\csharp-labs\TestParentheses\obj\Debug\net6.0\TestParentheses.dll
+C:\Users\jhon.velasquez\Documents\Jhon_GitHub\csharp-labs\TestParentheses\obj\Debug\net6.0\ref\TestParentheses.dll
+C:\Users\jhon.velasquez\Documents\Jhon_GitHub\csharp-labs\TestParentheses\obj\Debug\net6.0\TestParentheses.pdb
+C:\Users\jhon.velasquez\Documents\Jhon_GitHub\csharp-labs\TestParentheses\obj\Debug\net6.0\TestParentheses.genruntimeconfig.cache
