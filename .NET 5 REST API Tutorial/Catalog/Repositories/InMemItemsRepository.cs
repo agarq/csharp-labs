@@ -5,18 +5,19 @@ using System.Collections.Generic;
 
 namespace Catalog.Repositories
 {
-    public class InMemItemsRepository
+    public class InMemItemsRepository : IItemsRepository
     {
         //define very simple list of items
         //should not change after we construct this repository object
-        private readonly List<Item> items = new() 
+        private readonly List<Item> items = new()
         {
             new Item { Id = Guid.NewGuid(), Name = "Potion", Price = 9, CreatedDate = DateTimeOffset.UtcNow},
             new Item { Id = Guid.NewGuid(), Name = "Iron Sword", Price = 20, CreatedDate = DateTimeOffset.UtcNow},
             new Item { Id = Guid.NewGuid(), Name = "Bronze Shield", Price = 8, CreatedDate = DateTimeOffset.UtcNow}
         };
 
-        public IEnumerable<Item> GetItems(){
+        public IEnumerable<Item> GetItems()
+        {
             return items;
         }
 
@@ -25,6 +26,24 @@ namespace Catalog.Repositories
             //return items.Where(item => item.Id == id).SingleOrDefault();
             return items.SingleOrDefault(item => item.Id == id); //better way in this case to return a single item.
         }
+
+        public void CreateItem(Item item)
+        {
+             items.Add(item);
+        }
+
+        public void UpdateItem(Item item)
+        {
+            var index = items.FindIndex(existingItem => existingItem.Id == item.Id);
+            items[index] = item;
+        }
+
+        public void DeleteItem(Guid id)
+        {
+            var index = items.FindIndex(existingItem => existingItem.Id == id);
+            items.RemoveAt(index);
+        }
     }
+    
 
 }
