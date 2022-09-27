@@ -5,6 +5,7 @@ using System.Collections.Generic;
 
 namespace Catalog.Repositories
 {
+    /*
     public class InMemItemsRepository : IItemsRepository
     {
         //define very simple list of items
@@ -21,29 +22,29 @@ namespace Catalog.Repositories
             return items;
         }
 
-        public Item GetItem(Guid id)
+        public Item GetItemAsync(Guid id)
         {
             //return items.Where(item => item.Id == id).SingleOrDefault();
             return items.SingleOrDefault(item => item.Id == id); //better way in this case to return a single item.
         }
 
-        public void CreateItem(Item item)
+        public void CreateItemAsync(Item item)
         {
              items.Add(item);
         }
 
-        public void UpdateItem(Item item)
+        public void UpdateItemAsync(Item item)
         {
             var index = items.FindIndex(existingItem => existingItem.Id == item.Id);
             items[index] = item;
         }
 
-        public void DeleteItem(Guid id)
+        public void DeleteItemAsync(Guid id)
         {
             var index = items.FindIndex(existingItem => existingItem.Id == id);
             items.RemoveAt(index);
         }
     }
-    
+*/
 
 }
